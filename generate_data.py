@@ -1,4 +1,5 @@
-# We can generate the data by ourselves using pandas, Below are the steps:
+# We can generate the data by ourselves using pandas
+# Here are the below steps by which we can generate all CSV files for our project:
 
 import pandas as pd
 import random
