@@ -28,5 +28,11 @@ This repository contains the complete project for the Comprehensive Business Int
 ## Additional
 How to generate a dataset by yourself using Python and Pandas: [click here](generate_data.py).
 
+## Preview
+![image](https://github.com/user-attachments/assets/5f36ca06-e77d-4884-8341-7f813d71e37d)
+
+
+"Note: Since the logo is live and revolving 360 degrees, it may not appear fully in the preview picture."
+
 ## Contact
 For questions or feedback, please reach out to me.
